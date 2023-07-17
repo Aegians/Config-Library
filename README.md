@@ -1,4 +1,4 @@
-# ⚙️Config Library (https://github.com/Aegians/Config-Library)
+# ⚙️ Config Library
 
 | [Library](https://github.com/Aegians/Config-Library/blob/main/Main.lua) | [Install](https://github.com/Aegians/Config-Library#Install) | [Documentation](https://github.com/Aegians/Config-Library#Documentation) | [Examples](https://github.com/Aegians/Config-Library#Examples) | [Contact Information](https://github.com/Aegians/Config-Library#Contact-Information) |
 | :---: | :---: | :---: | :---: | :---: |
