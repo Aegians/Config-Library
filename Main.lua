@@ -1,10 +1,3 @@
---[[
-
-	Config Library by Aegians © CC0 1.0 Universal (2023)
-	https://github.com/Aegians
-
-]]
-
 local HttpService, ConfigLibrary = game:GetService("HttpService"), {}
 
 ConfigLibrary.Encode = function(Table)
